@@ -18,6 +18,7 @@
             <Button Content="1" Click="Button_Click"/>
             <Button Content="2" Click="Button_Click"/>
             <Button Content="3" Click="Button_Click"/>
+             <Button Content="3" Click="Button_Click"/>
             <Button Content="-" Click="Operator_Click"/>
 
             <Button Content="C" Click="Clear_Click"/>
